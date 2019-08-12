@@ -7,6 +7,9 @@ namespace Collab_Session
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Bye World!");
+
         }
     }
 }
