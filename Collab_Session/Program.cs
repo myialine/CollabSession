@@ -8,8 +8,9 @@ namespace Collab_Session
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Bye World!");
+            Console.WriteLine("Inbetween World!");
 
+            Console.WriteLine("Bye World!");
         }
     }
 }
